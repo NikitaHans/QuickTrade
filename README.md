@@ -21,3 +21,25 @@ Check for pip using `pip --version`<br>
 <br>`source venv/bin/activate`
 <br><br>`pip install --upgrade pip`
 <br><br>`pip3 install pyqt6 pyqt6-tools`
+
+### 5. Install VSCode for QML editor
+Simply install VSCode from https://code.visualstudio.com/Download <br>
+Install the qml plugin:  https://marketplace.visualstudio.com/items?itemName=bbenoist.QML <br>
+## Technology Stack
+- Python3
+- PyQt
+- Postman
+- Git
+
+## Workflow
+Describing our ways of working.<br>
+### Regular Development
+We use IntelliJ IDEA for the python development.<br>
+### UI Development
+We use VSCode with the QML plugin to edit our QML files.<br>
+### Testing
+We are currently not considering to implement tests.<br>
+### Project Backlog
+Our first focus is on DMarket and trading CSGO cases.<br>
+### Project Board
+The project board can be found at https://github.com/users/NikitaHans/projects/1 <br>
