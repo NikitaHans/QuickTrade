@@ -23,6 +23,7 @@ VERSION = '0.0.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
+    PyQt6,
     # 'requests', 'maya', 'records',
 ]
 
